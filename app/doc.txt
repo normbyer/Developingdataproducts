@@ -1,0 +1,2 @@
+use the top slider to adjust the lambda used for both graphs the top graph will update when it is changed
+use the bottom slider to adjust the observations for the second graph it will update when the button is pressed
